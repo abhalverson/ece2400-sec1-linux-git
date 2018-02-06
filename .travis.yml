@@ -1,0 +1,3 @@
+cript:
+        - grep red README.md
+
